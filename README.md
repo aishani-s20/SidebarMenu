@@ -1,1 +1,1 @@
-This repository contains code for a sidebar menu using only css by following the checkbox logic.
+This repository contains code for a sidebar menu using css.
